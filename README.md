@@ -1,4 +1,4 @@
 # horsescary.com 
 jperm is non
 
-make a website in the chain here: https://github.com/itsneyoa/horsescary.com-template
+[Click here](https://github.com/itsneyoa/horsescary.com-template) to make your own version of the website and join the chain!
